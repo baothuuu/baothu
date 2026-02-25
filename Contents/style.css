@@ -5,21 +5,21 @@
 }
 .header{
     flex: 15%;
-    background-color; lightgray;
+    background-color: lightgray;
 }
 .menu{
  flex: 5%;
-    background-color; gray;
+    background-color: gray;
 }
 }
 .content{
 flex: 70%;
-    background-color; white;
+    background-color: white;
 }
 }
 .footer{
 flex: 10%;
-    background-color; lightgray;
+    background-color: lightgray;
 }
 
 
